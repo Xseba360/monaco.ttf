@@ -10,3 +10,7 @@ In windows system, there are some original fonts are beautiful, for example "Con
 I get "Monaco" from web. It is tiny and beautiful. But it also can't support those special characters.
 
 So I add the characters by myself and share it.
+
+-----------
+
+Added MonacoS.ttf which is NerdFonts patched version of the monaco.ttf provided
